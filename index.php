@@ -1,6 +1,8 @@
 <?php
-echo "br><br><a href='materi1.php'materi 1 : if dan else</a>";
-echo "br><br><a href='materi2.php'materi 2 : looping</a>";
-echo "br><br><a href='materi3.php'materi 3 3</a>";
-echo "br><br><a href='materi4.php'materi 4 3</a>";
+echo "
+<a href='materi1.php'>Materi 1: if dan else</a><br><br>
+<a href='materi2.php'>Materi 2: looping</a><br><br>
+<a href='materi3.php'>Materi 3: </a><br><br>
+<a href='materi4.php'>Materi 4: function</a><br><br>
+";
 ?>

@@ -10,27 +10,6 @@ function tambah (int $a, int $b)
     $hasil = $a = $b;
     return $hasil;
 }
-
-
-function kurang (int $a, int $b)
-{
-    $hasil = $a = $b;
-    return $hasil;
-}
-
-
-function kali (int $a, int $b)
-{
-    $hasil = $a = $b;
-    return $hasil;
-}
-
-
-function bagi (int $a, int $b)
-{
-    $hasil = $a = $b;
-    return $hasil;
-}
 echo "<br><br>";
 echo tambah(12, 8);
 
@@ -51,4 +30,5 @@ if(isset ($_POST["angka"])){
     echo kali ($newangka1, $newangka2);
     echo bagi ($newangka1, $newangka2);
     echo kurang ($newangka1, $newangka2);
+}
     
